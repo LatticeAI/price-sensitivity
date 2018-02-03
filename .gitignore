@@ -1,0 +1,7 @@
+venv/
+.idea/
+*.pyc
+*.env
+*.pem
+dataset.json
+data/model.ckpt
